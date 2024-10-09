@@ -5,7 +5,8 @@
 ---------------------------
 
 ### Installation and Configuration
-* Clone this repository to `path_to_dev` and `cd path_to_dev/PatternGenFormer`
+* Clone this repository to `path_to_dev` and `cd path_to_dev/PatternGenFormer`, and `cd path_to_dev/Sewformer`, download the pre-trained [checkpoint](https://huggingface.co/irukapathirana/PatternGenFormer) and put it into `assets/ckpts`.
+
 * The environment can be initialized with `conda env create -f environment.yaml`. Then you can activate the environment `conda activate garment`. 
 
 ### Training
